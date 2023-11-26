@@ -43,10 +43,13 @@ export const getPlatfromIcon = (platform: Platform): Icons => {
 
 export const HOME: HomePageParams = {
 	title: 'Home',
-	name: 'Name',
-	lastName: 'LASTNAME',
+	name: 'Shivam',
+	lastName: 'Gupta',
 	description:
-		'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti, rerum. Debitis accusantium deleniti enim iste dignissimos? Similique, exercitationem! Odit vero, numquam quae ratione maxime sunt reiciendis laudantium quaerat iure ipsum!',
+		'4+ year of agile and continuous integration development experience on Web Services Modularize code using Factory. Command, Builder and other
+industry standard design patterns. Develop robust code by using frameworks like Guice, junit, jmock, PowerMockito, integration testing, and code
+coverage tools like clover Review user requirement, tech design and team management by breaking epic JIRA to smaller tasks Code release. peer
+code review and fixing of critical bugs/issues raised by clients.',
 	links: [
 		{ platform: Platform.GitHub, link: 'https://github.com/' },
 		{
